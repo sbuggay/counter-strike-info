@@ -40,8 +40,20 @@ See below for game-specific instructions.
 ## Counter-Strike [90]
 While still in SteamCMD:
 
-
-[AMX Mod X](http://www.amxmodx.org/)
+Set your app install directory:
+```
+force_install_dir <path>
+```
+Install halflife/cstrike:
+```
+app_update 90 validate 
+```
+Quit SteamCMD:
+```
+quit
+```
+Configuring  
+Plugins
 
 ## Counter-Strike: Source [232330]
 
