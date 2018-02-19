@@ -29,6 +29,16 @@ tmux new -s cstrike
 
 ### Configuration
 
+<todo>
+
+### Plugins
+
+- [Metamod](http://metamod.org/)
+- [AMX Mod](https://www.amxmodx.org/)
+    - [Installing AMX Mod manually](https://wiki.alliedmods.net/Installing_AMX_Mod_X_Manually)
+
+<todo: list of mods>
+
 ## Client
 
 Counter-Strike forces mouse accel unless turned off as a launch option. Here are my launch options:
